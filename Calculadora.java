@@ -1,19 +1,12 @@
 /*
  * 2  Realizar un programa que implemente la clase Calculadora que tenga los siguientes atributos:
-
-    operando1 de tipo entero, privado
-
-    operando2 de tipo entero, privado
-
-además debe de tener los siguientes métodos:
-
-    constructor el cuál se le pasan los dos operandos
-
-    métodos set y get
-
-    métodos: suma, resta, producto que nos devuelve la operación correspondiente de los dos operandos.
-
-Escribir la clase de prueba para probar la clase anteriormente.
+ * operando1 de tipo entero, privado
+ * operando2 de tipo entero, privado
+ *además debe de tener los siguientes métodos:
+ * constructor el cuál se le pasan los dos operandos
+ * métodos set y get
+ *métodos: suma, resta, producto que nos devuelve la operación correspondiente de los dos operandos.
+ *Escribir la clase de prueba para probar la clase anteriormente.
  */
 
 /**
