@@ -55,7 +55,11 @@ public class Main {
         arca.insertarAnimal(reptil1);
         arca.insertarAnimal(mamifero2);
         arca.insertarAnimal(reptil2);
+        
+        
         arca.hablarArca();
+        
+        reptil1.comer();
         
         
     }

@@ -10,7 +10,7 @@ package net.intergrupo.arca;
  *
  * @author Alumno37
  */
-public abstract class Animal { 
+public abstract class Animal implements PorComer { 
     
     private String nombre;
     private String especie;
@@ -48,5 +48,11 @@ public abstract class Animal {
      
      //metodo abstracto
     public  abstract void hablar();
+    
+    
+    ///interface
+    public void comer(){
+        System.out.println("Estoy comiendo");
+    }
     
 }
